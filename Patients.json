@@ -12,7 +12,7 @@
         "Email": "lvasilik0@java.com",
         "Telephone": "+93 615 474 3883",
         "username": "lvasilik",
-        "password": "patient123"
+        "password": "lvasilik123"
     },
     {
         "id": 2,
@@ -26,7 +26,7 @@
         "Email": "mcharke1@cafepress.com",
         "Telephone": "+62 171 349 9199",
         "username": "mcharke",
-        "password": "patient123"
+        "password": "mcharke123"
     },
     {
         "id": 3,
@@ -40,7 +40,7 @@
         "Email": "anorvill2@msn.com",
         "Telephone": "+86 914 510 0231",
         "username": "anorvill",
-        "password": "patient123"
+        "password": "anorvill123"
     },
     {
         "id": 4,
@@ -54,7 +54,7 @@
         "Email": "adunston3@bigcartel.com",
         "Telephone": "+62 305 360 4789",
         "username": "adunston",
-        "password": "patient123"
+        "password": "adunston123"
     },
     {
         "id": 5,
@@ -68,6 +68,6 @@
         "Email": "eduncanson4@liveinternet.ru",
         "Telephone": "+60 735 668 5480",
         "username": "eduncanson",
-        "password": "patient123"
+        "password": "eduncanson123"
     }
 ]
