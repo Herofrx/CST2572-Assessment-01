@@ -37,7 +37,7 @@
         "age": 67,
         "lastVisit": "2025-10-15",
         "condition": "Arthritis",
-        "status": "managed",
+        "status": "monitoring",
         "nextAppointment": "2025-11-20",
         "height": "160 cm",
         "weight": "135 lbs"
@@ -79,7 +79,7 @@
         "age": 53,
         "lastVisit": "2025-10-20",
         "condition": "Diabetes",
-        "status": "controlled",
+        "status": "monitoring",
         "nextAppointment": "2025-11-25",
         "height": "180 cm",
         "weight": "190 lbs"
@@ -100,9 +100,10 @@
         "age": 17,
         "lastVisit": "2025-10-25",
         "condition": "Growth Monitoring",
-        "status": "normal",
+        "status": "stable",
         "nextAppointment": "2025-12-05",
         "height": "170 cm",
         "weight": "140 lbs"
     }
 ]
+
