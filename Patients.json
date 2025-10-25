@@ -17,6 +17,7 @@
         "lastVisit": "2025-10-12",
         "condition": "Hypertension",
         "status": "stable",
+        "nextAppointment": "2025-11-15",
         "height": "165 cm",
         "weight": "145 lbs"
     },
@@ -37,6 +38,7 @@
         "lastVisit": "2025-10-15",
         "condition": "Arthritis",
         "status": "managed",
+        "nextAppointment": "2025-10-25",
         "height": "160 cm",
         "weight": "135 lbs"
     },
@@ -77,6 +79,7 @@
         "lastVisit": "2025-10-20",
         "condition": "Diabetes",
         "status": "controlled",
+        "nextAppointment": "2025-10-20",
         "height": "180 cm",
         "weight": "190 lbs"
     },
