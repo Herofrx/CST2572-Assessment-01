@@ -12,7 +12,13 @@
         "Email": "lvasilik0@java.com",
         "Telephone": "+93 615 474 3883",
         "username": "lvasilik",
-        "password": "lvasilik123"
+        "password": "lvasilik123",
+        "age": 41,
+        "lastVisit": "2025-10-12",
+        "condition": "Hypertension",
+        "status": "stable",
+        "height": "165 cm",
+        "weight": "145 lbs"
     },
     {
         "id": 2,
@@ -26,7 +32,13 @@
         "Email": "mcharke1@cafepress.com",
         "Telephone": "+62 171 349 9199",
         "username": "mcharke",
-        "password": "mcharke123"
+        "password": "mcharke123",
+        "age": 67,
+        "lastVisit": "2025-10-15",
+        "condition": "Arthritis",
+        "status": "managed",
+        "height": "160 cm",
+        "weight": "135 lbs"
     },
     {
         "id": 3,
@@ -40,7 +52,13 @@
         "Email": "anorvill2@msn.com",
         "Telephone": "+86 914 510 0231",
         "username": "anorvill",
-        "password": "anorvill123"
+        "password": "anorvill123",
+        "age": 40,
+        "lastVisit": "2025-10-18",
+        "condition": "Asthma",
+        "status": "stable",
+        "height": "170 cm",
+        "weight": "150 lbs"
     },
     {
         "id": 4,
@@ -54,7 +72,13 @@
         "Email": "adunston3@bigcartel.com",
         "Telephone": "+62 305 360 4789",
         "username": "adunston",
-        "password": "adunston123"
+        "password": "adunston123",
+        "age": 53,
+        "lastVisit": "2025-10-20",
+        "condition": "Diabetes",
+        "status": "controlled",
+        "height": "180 cm",
+        "weight": "190 lbs"
     },
     {
         "id": 5,
@@ -68,6 +92,12 @@
         "Email": "eduncanson4@liveinternet.ru",
         "Telephone": "+60 735 668 5480",
         "username": "eduncanson",
-        "password": "eduncanson123"
+        "password": "eduncanson123",
+        "age": 17,
+        "lastVisit": "2025-10-25",
+        "condition": "Growth Monitoring",
+        "status": "normal",
+        "height": "170 cm",
+        "weight": "140 lbs"
     }
 ]
