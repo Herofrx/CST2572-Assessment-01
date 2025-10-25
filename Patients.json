@@ -38,7 +38,7 @@
         "lastVisit": "2025-10-15",
         "condition": "Arthritis",
         "status": "managed",
-        "nextAppointment": "2025-10-25",
+        "nextAppointment": "2025-11-20",
         "height": "160 cm",
         "weight": "135 lbs"
     },
@@ -59,6 +59,7 @@
         "lastVisit": "2025-10-18",
         "condition": "Asthma",
         "status": "stable",
+        "nextAppointment": "2025-11-10",
         "height": "170 cm",
         "weight": "150 lbs"
     },
@@ -79,7 +80,7 @@
         "lastVisit": "2025-10-20",
         "condition": "Diabetes",
         "status": "controlled",
-        "nextAppointment": "2025-10-20",
+        "nextAppointment": "2025-11-25",
         "height": "180 cm",
         "weight": "190 lbs"
     },
@@ -100,6 +101,7 @@
         "lastVisit": "2025-10-25",
         "condition": "Growth Monitoring",
         "status": "normal",
+        "nextAppointment": "2025-12-05",
         "height": "170 cm",
         "weight": "140 lbs"
     }
