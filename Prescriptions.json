@@ -1,8 +1,8 @@
 [
   {
-    "id": "1",
-    "patientId": "1",
-    "medicineId": "1",
+    "id": 1,
+    "patientId": 1,
+    "medicineId": 1,
     "medicineName": "Lisinopril",
     "dosage": "10mg",
     "frequency": "Once daily",
@@ -11,9 +11,9 @@
     "status": "active"
   },
   {
-    "id": "2",
-    "patientId": "1",
-    "medicineId": "8",
+    "id": 2,
+    "patientId": 1,
+    "medicineId": 8,
     "medicineName": "Aspirin",
     "dosage": "81mg",
     "frequency": "Once daily",
@@ -22,9 +22,9 @@
     "status": "active"
   },
   {
-    "id": "3",
-    "patientId": "2",
-    "medicineId": "2",
+    "id": 3,
+    "patientId": 2,
+    "medicineId": 2,
     "medicineName": "Metformin",
     "dosage": "500mg",
     "frequency": "Twice daily",
@@ -33,9 +33,9 @@
     "status": "active"
   },
   {
-    "id": "4",
-    "patientId": "3",
-    "medicineId": "3",
+    "id": 4,
+    "patientId": 3,
+    "medicineId": 3,
     "medicineName": "Albuterol",
     "dosage": "90mcg",
     "frequency": "As needed",
@@ -44,9 +44,9 @@
     "status": "active"
   },
   {
-    "id": "5",
-    "patientId": "4",
-    "medicineId": "7",
+    "id": 5,
+    "patientId": 4,
+    "medicineId": 7,
     "medicineName": "Ibuprofen",
     "dosage": "400mg",
     "frequency": "Three times daily",
