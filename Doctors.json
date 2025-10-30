@@ -8,6 +8,7 @@
 "Address": "4487 Elka Hill",
 "Telephone": "385-695-6126",
 "specialization": "Cardiologist"
+"password": "password123"
 },
 {
 "id": 2,
@@ -18,6 +19,7 @@
 "Address": "839 Arizona Terrace",
 "Telephone": "346-726-1420",
 "specialization": "Dermatologist"
+"password": "password456"
 },
 {
 "id": 3,
@@ -28,6 +30,7 @@
 "Address": "48 Nancy Drive",
 "Telephone": "470-276-1948",
 "specialization": "Pediatrician"
+"password": "password789"
 },
 {
 "id": 4,
@@ -150,3 +153,4 @@
 "specialization": "Oncologist"
 }
 ]
+
