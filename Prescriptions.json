@@ -3,7 +3,7 @@
     "id": 1,
     "patientId": 1,
     "medicineId": 1,
-    "medicineName": "Lisinopril",
+    "medicineName": "Nabumetone",
     "dosage": "10mg",
     "frequency": "Once daily",
     "duration": "90 days",
@@ -14,7 +14,7 @@
     "id": 2,
     "patientId": 1,
     "medicineId": 8,
-    "medicineName": "Aspirin",
+    "medicineName": "alprazolam",
     "dosage": "81mg",
     "frequency": "Once daily",
     "duration": "Ongoing",
@@ -55,3 +55,4 @@
     "status": "active"
   }
 ]
+
