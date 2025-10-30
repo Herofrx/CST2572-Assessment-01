@@ -7,7 +7,7 @@
 "gender": "Female",
 "Address": "4487 Elka Hill",
 "Telephone": "385-695-6126",
-"specialization": "Cardiologist"
+"specialization": "Cardiologist",
 "password": "password123"
 },
 {
@@ -18,7 +18,7 @@
 "gender": "Female",
 "Address": "839 Arizona Terrace",
 "Telephone": "346-726-1420",
-"specialization": "Dermatologist"
+"specialization": "Dermatologist",
 "password": "password456"
 },
 {
@@ -29,7 +29,7 @@
 "gender": "Female",
 "Address": "48 Nancy Drive",
 "Telephone": "470-276-1948",
-"specialization": "Pediatrician"
+"specialization": "Pediatrician",
 "password": "password789"
 },
 {
@@ -153,4 +153,5 @@
 "specialization": "Oncologist"
 }
 ]
+
 
